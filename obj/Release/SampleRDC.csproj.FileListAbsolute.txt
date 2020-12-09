@@ -1,0 +1,14 @@
+D:\C#\remotedesktop_demo\SampleRDC\bin\Release\SampleRDC.exe
+D:\C#\remotedesktop_demo\SampleRDC\bin\Release\SampleRDC.pdb
+D:\C#\remotedesktop_demo\SampleRDC\bin\Release\Interop.MSTSCLib.dll
+D:\C#\remotedesktop_demo\SampleRDC\bin\Release\AxInterop.MSTSCLib.dll
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\Interop.MSTSCLib.dll
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\AxInterop.MSTSCLib.dll
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\SampleRDC.csproj.ResolveComReference.cache
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\SampleRDC.Form1.resources
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\SampleRDC.Properties.Resources.resources
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\SampleRDC.csproj.GenerateResource.cache
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\SampleRDC.csproj.CoreCompileInputs.cache
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\SampleRDC.exe
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\SampleRDC.pdb
+D:\C#\remotedesktop_demo\SampleRDC\obj\Release\SampleRDC.csprojAssemblyReference.cache
